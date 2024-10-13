@@ -17,3 +17,5 @@
 #pragma once
 
 #define EE_HANDS
+
+#define LED_PIN_ON_STATE 0

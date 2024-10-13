@@ -12,5 +12,8 @@
     },
     "build": {
         "lto": true
+    },
+    "indicators": {
+        "caps_lock": 24
     }
 }
